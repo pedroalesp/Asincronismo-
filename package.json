@@ -1,0 +1,19 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en js",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Pedro Alejandro Silva",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
